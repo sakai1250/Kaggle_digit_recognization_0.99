@@ -1,2 +1,2 @@
-# mnist-with-cnn-beginer-frelu
+# Kaggle_digit_recognization_0.99
 # kaggle
