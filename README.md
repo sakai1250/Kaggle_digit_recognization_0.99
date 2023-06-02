@@ -1,2 +1,2 @@
 # Kaggle_digit_recognization_0.99
-# kaggle
+## [kaggle](https://www.kaggle.com/code/sakaitt/mnist-with-cnn-beginer)
